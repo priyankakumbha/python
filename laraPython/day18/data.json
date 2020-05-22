@@ -1,0 +1,15 @@
+{
+	"emp":[
+		{
+			"id": 101,
+			"firstName": "abc",
+			"lastName": "xyz"
+		},
+		{
+			"id": 102,
+			"firstName": "ramu",
+			"lastName": "vijay"
+		}
+	],
+	"country": "India"
+}

@@ -1,0 +1,3 @@
+[10, "abc", true]
+[10, "abc", false, null]
+{"k1": "Hello", "k2": "java", "k3": 100, "k4": false, "k5": null}

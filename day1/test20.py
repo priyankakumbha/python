@@ -1,0 +1,5 @@
+print(1000 + 2000)
+print(10 - 5)
+print(100 * 200)
+print(400 / 20)
+print(4 % 2)

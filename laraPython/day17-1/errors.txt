@@ -1,0 +1,7 @@
+
+
+ZeroDivisionError: division by zero
+ValueError: invalid literal for int() with base 10: 'abc'
+IndexError: list index out of range
+NameError: name 'x' is not defined
+TypeError: object of type 'NoneType' has no len()

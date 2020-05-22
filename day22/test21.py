@@ -1,0 +1,8 @@
+print('Hi "python", how are you?')
+print("Hi 'python', how are you?")
+#print("Hi "python", how are you?")
+#print('Hi 'python', how are you?')
+print('''Hi 'python', how are you?''')
+print('''Hi "python", how are you?''')
+print("""Hi 'python', how are you?""")
+print("""Hi "python", how are you?""")

@@ -1,0 +1,8 @@
+print(1000, type(1000))
+print(str(1000), type(str(1000)))
+print('123', type('123'))
+print(int('123'), type(int('123')))
+print('12.3', type('12.3'))
+print(float('12.3'), type(float('123')))
+print('True',type('True'))
+print(bool('True'), type(bool('True')))
